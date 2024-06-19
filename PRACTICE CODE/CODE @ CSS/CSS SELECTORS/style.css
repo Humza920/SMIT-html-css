@@ -1,0 +1,13 @@
+/*ID "1st" */
+#HUM{color: peru;}
+
+/*INTERNAL STYLING "2nd" */
+
+/*TYPE SELECTOR "3rd" */
+h1,p{color: crimson;}
+
+/* UNIVESAL SELESCTOR "4th" */
+*{color: purple;}
+
+/*CLASS "5th [LAST]" */
+.NAL{color: aqua;}

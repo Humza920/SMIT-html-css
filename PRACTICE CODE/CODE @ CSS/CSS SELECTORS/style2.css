@@ -1,0 +1,11 @@
+/* CHILD SELECTOR */
+li>p{color: chartreuse;}
+
+/* DESCENDENT SELECTOR */
+p a {color: red;}
+
+/*ADJACENT SIBLING SELECTOR*/
+h1+p{color: darkgreen;}
+
+/* GENERAL SIBLING SELECTOR*/
+h1~p{color: fuchsia}
